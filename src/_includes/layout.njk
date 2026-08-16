@@ -11,7 +11,13 @@
 <link rel="icon" href="/assets/images/favicon.ico">
 </head>
 <body background="/assets/images/background.gif" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-<table border="0" cellpadding="0" cellspacing="0" width="750" height="100%"><tr><td valign="top">
+
+<div class="mobile-header">
+<img src="/assets/pageImage/{{ section }}.jpg" alt="{{ section }}" height="162" width="108" border="0" class="mobile-pageimage">
+{% include "nav.njk" %}
+</div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="750" height="100%" class="layout-main"><tr><td valign="top" class="sidebar-left">
 
 <table border="0" cellpadding="0" cellspacing="0" width="108">
 <tr><td>
@@ -23,8 +29,8 @@
 </td></tr>
 </table>
 
-</td><td valign="top">
-<img src="/assets/images/pixel-white.gif" height="10" width="400"><br>
+</td><td valign="top" class="content-area">
+<img src="/assets/images/pixel-white.gif" height="10" width="400" class="spacer"><br>
 <table border="0" cellpadding="10" cellspacing="0" width="492"><tr><td>
 
 <h1>{{ pageTitle | default("The " + section) }}</h1>
@@ -32,7 +38,7 @@
 {{ content | safe }}
 
 </td></tr></table>
-</td><td valign="top">
+</td><td valign="top" class="sidebar-right">
 
 <table border="0" cellpadding="0" cellspacing="0" width="150">
 <tr height="20"><td>&nbsp;</td></tr>

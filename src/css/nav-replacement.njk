@@ -27,3 +27,12 @@ a.menu-{{ item }}.active {
   background-image: url("/assets/menu/{{ item }}_a.gif");
 }
 {% endfor %}{% endfor %}
+
+/* Mobile: Navigation als Text statt Bilder */
+@media (max-width: 768px) {
+  a.menu-item {
+    background-image: none !important;
+    text-indent: 0 !important;
+    overflow: visible !important;
+  }
+}

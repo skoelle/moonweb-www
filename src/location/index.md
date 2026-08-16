@@ -11,7 +11,7 @@ moonweb.org was located in Augsburg, Germany. The location was connected to two 
 
 ## The Main Environment
 
-There were some old servers which do not run very fast, so don't expect too much. The main server, the internet access, and the two client hubs (10 Mbit and 100 Mbit) were connected with a SOHO switch.
+There were some old servers which did not run very fast, so don't expect too much. The main server, the internet access, and the two client hubs (10 Mbit and 100 Mbit) were connected with a SOHO switch.
 
 {% pseudonymBox "Hardware" %}
 

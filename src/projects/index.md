@@ -7,14 +7,14 @@ layout: layout.njk
 lastChanged: "5/1/2001"
 ---
 
-The main goal of moonweb.org Projects is to build up <b>IT knowledge</b>. Over the past 13 years, through a continuous learning process, I have gained extensive experience in various areas of IT.
+The main goal of moonweb.org projects is to build up <b>IT knowledge</b>. Over the past 13 years, through a continuous learning process, I have gained extensive experience in various areas of IT.
 
 ## Computer Programming Projects
 
 Over the years, several products have been released through various development projects. These projects began in 1988 on our first computers, the Atari STFM 1040. More detailed information can be found in the project section.
 
 <b>The Atari ST Products</b>
-Our first project involved coding simple programs. Matthias focused on medium resolution programming, while Stefan worked on high resolution. As 12-year-old kids, we primarily coded games but also developed some useful tools.
+Our first project involved coding simple programs. Matthias focused on medium resolution programming, while Stefan worked on high resolution. As 12-year-olds, we primarily coded games but also developed some useful tools.
 
 - <b>International Kegeln and Bowling (1990)</b>: Our first release, a complete but barely playable bowling game.
 

@@ -7,7 +7,7 @@ layout: layout.njk
 lastChanged: "5/1/2001"
 ---
 
-Over the years of development projects, some products have been released. This section is grouped by the different projects and on a separate list by product title. The projects started in 1988 on our first computers, which were Atari STFM 1040s. You can find more detailed information in the project section.
+Over the years of development projects, some products have been released. This section is grouped by project and also listed separately by product title. The projects started in 1988 on our first computers, which were Atari STFM 1040s. You can find more detailed information in the project section.
 
 ## The Atari ST Products
 
@@ -17,7 +17,7 @@ On our first project, we quickly learned to code some simple programs. Matthias 
   Our first release ever. Idea from Matthias (Olympic Arts) and first graphical coding project. The result was a complete Bowling game as a second version of "International Kegeln" simply called <b>Bowling</b>. Sure, it was complete, but never playable.
 
 - <b>Runner (1991)</b>
-  An all-round helper tool including a database, memo, system overview, and a game. Main idea from CPK and some help from Stefan on the inside Hangman game.
+  An all-round helper tool including a database, memo, system overview, and a game. Main idea from CPK and some help from Stefan on the built-in Hangman game.
 
 - <b>Atom Oh No! (1991)</b>
   The second <b>game release</b> on the Atari ST <b>completely coded by Stefan</b> under the pseudonym "Tropic DREAMs". Idea from the game Atomix on the Amiga, ported to the Atari ST high resolution 640*400 including a <b>level maker</b> and <b>10 demo levels</b>.
@@ -53,11 +53,11 @@ mainly Stefan, the goal was to build games and demos on the PC, but there was on
 <a href="https://www.moonweb.org/tcm/" target="_blank">Tr@nceMission Website with Sourcecode</a>
 
 <b>SkyLINE Productions</b>
-mainly Stefan, the goal was to build serious applications on the PC. SkyLINE existed from 1993 till 1995 and released about 15 tools and demos
+mainly Stefan, the goal was to build serious applications on the PC. SkyLINE existed from 1993 until 1995 and released about 15 tools and demos
 <a href="https://28k8.moonweb.org/bbs/pc/skyline/" target="_blank">SkyLINE Production Releases</a>
 
 <b>PHOB!A</b>
-was a short-lived PC DemoGroup in 1994. Released the Phobia Welcome Intro, coded in Turbo Pascal with inline assembler, using palette tricks for animation and a custom font.
+was a short-lived PC DemoGroup in 1994. It released the Phobia Welcome Intro, coded in Turbo Pascal with inline assembler, using palette tricks for animation and a custom font.
 <a href="https://www.moonweb.org/phobia/" target="_blank">PHOB!A Website with Sourcecode</a>
 
 {% endpseudonymBox %}
@@ -70,7 +70,7 @@ Matthias and I always looked at the famous PC demos and thought about the way to
   The best intro ever coded by myself (Stefan). Some parts are faked, but it looks really good. I will try to make a screenshot soon and put the source and the executable into an archive for download. Meanwhile, you can read something about the PHOBIA and the demo group story. Sorry, the links on this page do not work. <a href="https://www.moonweb.org/phobia/" target="_blank">... read more</a>
 
 - <b>Copperintro (1995)</b>
-  A really interesting demo with more than 100 colors in text mode done with Amiga copper-like effects. Does only work on an old 486 PC. Perhaps it will run under Pentium, too. Just test it. [... download (10kB)](https://www.moonweb.org/files/pc/skyline/copperint.zip)
+  A really interesting demo with more than 100 colors in text mode done with Amiga copper-like effects. Only works on an old 486 PC. Perhaps it will run under Pentium, too. Just test it. [... download (10kB)](https://www.moonweb.org/files/pc/skyline/copperint.zip)
 
 ## The PC Tools
 
@@ -80,5 +80,5 @@ Matthias and I always looked at the famous PC demos and thought about the way to
   [... free reg-key by email](mailto:dosmenu-reg-key@moonweb.org)
 
 - <b>misc Tools (1995)</b>
-  SkyLINE released even more tools, especially the XLIBUNIT for Turbo Pascal for direct VGA functions. I will release the source code as public freeware, don't know if anyone could need it. Mostly assembler code, maybe just for fun to read :)
+  SkyLINE released even more tools, especially the XLIBUNIT for Turbo Pascal for direct VGA functions. I will release the source code as public freeware, not sure if anyone would need it. Mostly assembler code, maybe just for fun to read :)
   <a href="https://github.com/skoelle/turbopascal-xlib-unit" target="_blank">... X Lib Unit on Github</a>

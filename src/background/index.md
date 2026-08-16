@@ -11,7 +11,7 @@ Here is a list of key milestones in my IT learning journey.
 
 ## The Key Dates
 
-{% pseudonymBox "Personal Dates" %}
+{% pseudonymBox "Key Dates" %}
 
 <b>1988</b>
 First computer (Atari ST)

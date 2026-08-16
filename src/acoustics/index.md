@@ -38,7 +38,7 @@ vapeur live session (1992)
 
 ## Live Turntable Mixing
 
-I started mixing later in life and never aspired to be a big star DJ. I really enjoyed mixing at private parties and smaller events. In the 'DJ examples' box, you can find the latest afro-cosmic-double-mix with my DJ friend <b>Marc le Nain</b>, a live recording at the <b>Private Lounge Party V</b>.
+I started mixing later in life and never aspired to be a star DJ. I really enjoyed mixing at private parties and smaller events. In the 'DJ examples' box, you can find the latest afro-cosmic-double-mix with my DJ friend <b>Marc le Nain</b>, a live recording at the <b>Private Lounge Party V</b>.
 
 {% pseudonymBox "DJ Examples" %}
 

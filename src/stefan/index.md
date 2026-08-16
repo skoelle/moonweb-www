@@ -21,6 +21,6 @@ Favourite radio station: <a href="https://fm4.orf.at/" target="_blank">FM4</a>
 Favourite internet radio: <a href="https://somafm.com/" target="_blank">Soma FM</a>
 Favourite electronic band: <a href="https://www.autechre.ws" target="_blank">Autechre</a>
 
-## links
+## Links
 
 [More background information about myself](/background/)

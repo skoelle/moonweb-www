@@ -8,7 +8,7 @@ layout: layout.njk
 lastChanged: "5/1/2001"
 ---
 
-moonweb.org network
+Here is the moonweb.org network plan:
 
 ![Detailed network plan of the moonweb.org network](/assets/content/network.jpg)
 

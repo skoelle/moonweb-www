@@ -47,7 +47,7 @@ We also developed several tools for DOS.
 
 ## Mailbox/BBS/Fidonet Projects
 
-- BBS and Fidonet node (exact dates approximately 1994 - 2000)
+- BBS and Fidonet node (dates approximately 1994 - 2000)
 
 - Node in Augsburg with uplink directly to the NC in Munich
 
@@ -77,7 +77,7 @@ We also developed several tools for DOS.
 
 - Redesigned the Jukeman website (in ASP classic and MSSQL)
 
-- Prepared training rooms for R/3 training sessions
+- Prepared rooms for R/3 training sessions
 
 - Worked in the innovation department
 

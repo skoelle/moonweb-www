@@ -14,13 +14,13 @@ Over the years of development projects, some products have been released. This s
 On our first project, we quickly learned to code some simple programs. Matthias mainly focused on medium resolution programming and Stefan on high resolution. As 12-year-olds, the type of software we wanted to code was games, although we also coded some nice tools.
 
 - <b>International Kegeln and Bowling (1990)</b>
-  Our first release ever. Idea from Matthias (Olympic Arts) and first graphical coding project. The result was a complete Bowling game as a second version of "International Kegeln" simply called <b>Bowling</b>. Sure, it was complete, but never playable.
+  Our first release ever. Idea from Matthias (Olympic Arts) and first graphical coding project. The result was a complete Bowling game as a second version of "International Kegeln" simply called <b>Bowling</b>. It was complete, but never playable.
 
 - <b>Runner (1991)</b>
   An all-round helper tool including a database, memo, system overview, and a game. Main idea from CPK and some help from Stefan on the built-in Hangman game.
 
 - <b>Atom Oh No! (1991)</b>
-  The second <b>game release</b> on the Atari ST <b>completely coded by Stefan</b> under the pseudonym "Tropic DREAMs". Idea from the game Atomix on the Amiga, ported to the Atari ST high resolution 640*400 including a <b>level maker</b> and <b>10 demo levels</b>.
+  The second <b>game release</b> on the Atari ST <b>completely coded by Stefan</b> under the pseudonym "Tropic DREAMs". Idea from the game Atomix on the Amiga, ported to the Atari ST high resolution 640x400 including a <b>level maker</b> and <b>10 demo levels</b>.
 
 - <b>TOP Tools (1992)</b>
   Some small tools and a game coded by Stefan under the pseudonym "Tropic DREAMs". All-round tool like Runner, a simple strategic game, and an archive tool for the Atari ST magazine TOS.
@@ -67,7 +67,7 @@ was a short-lived PC demo group in 1994. It released the Phobia Welcome Intro, c
 Matthias and I always looked at the famous PC demos and thought about the way to code them. Several small demo releases deserve mention.
 
 - <b>phobia-intro (1994)</b>
-  The best intro ever coded by myself (Stefan). Some parts are faked, but it looks really good. I will try to make a screenshot soon and put the source and the executable into an archive for download. Meanwhile, you can read something about the PHOBIA and the demo group story. Sorry, the links on this page do not work. <a href="https://www.moonweb.org/phobia/" target="_blank">... read more</a>
+  The best intro ever coded by me (Stefan). Some parts are faked, but it looks really good. I will try to make a screenshot soon and put the source and the executable into an archive for download. Meanwhile, you can read something about the PHOBIA and the demo group story. Sorry, the links on this page do not work. <a href="https://www.moonweb.org/phobia/" target="_blank">... read more</a>
 
 - <b>Copperintro (1995)</b>
   A really interesting demo with more than 100 colors in text mode done with Amiga copper-like effects. Only works on an old 486 PC. Perhaps it will run under Pentium, too. Just test it. [... download (10kB)](https://www.moonweb.org/files/pc/skyline/copperint.zip)

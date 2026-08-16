@@ -11,7 +11,7 @@ Music has always been a significant part of my life. Since 1995, I have been mix
 
 ## Music on Computers
 
-My first attempt at making music was on the computer. I never enjoyed live playing, so I sought a better way to create music. That's when I discovered MOD-Trackers! There are some nice MOD files, but they are very computer-based and don't sound like real music.
+My first attempt at making music was on the computer. I never enjoyed live playing, so I sought a better way to create music. That's when I discovered MOD-Trackers. There are some nice MOD files, but they are very computer-based and don't sound like real music.
 
 {% pseudonymBox "MOD-file examples (can be played on Winamp)" %}
 
@@ -27,7 +27,7 @@ Electronic techno-steps from 1994:
 
 ## Live Synthesizer Music
 
-Later on, we tried to perform some live music. There are two tapes with live music that I will sample very soon. One tape is a live recording from the <b>S.O.N.A.X meets Genital Angriff</b> session in our party room (screenshot follows), and the other is a solo tape from Genital Angriff.
+Later on, we tried to perform some live music. There are two tapes with live music that I will digitize very soon. One tape is a live recording from the <b>S.O.N.A.X meets Genital Angriff</b> session in our party room (screenshot follows), and the other is a solo tape from Genital Angriff.
 
 {% pseudonymBox "Live Sessions" %}
 
@@ -38,7 +38,7 @@ vapeur live session (1992)
 
 ## Live Turntable Mixing
 
-I started mixing very late and never aspired to be a big star DJ. I really enjoyed mixing at private parties and smaller events. In the 'DJ examples' box, you can find the latest afro-cosmic-double-mix with my DJ friend <b>Marc le Nain</b>, a live recording at the <b>Private Lounge Party V</b>.
+I started mixing later in life and never aspired to be a big star DJ. I really enjoyed mixing at private parties and smaller events. In the 'DJ examples' box, you can find the latest afro-cosmic-double-mix with my DJ friend <b>Marc le Nain</b>, a live recording at the <b>Private Lounge Party V</b>.
 
 {% pseudonymBox "DJ Examples" %}
 

@@ -11,7 +11,7 @@ Over the years of development projects, some products have been released. This s
 
 ## The Atari ST Products
 
-On our first project, we quickly learned to code some simple programs. Matthias mainly focused on medium resolution programming and Stefan on high resolution. As we were 12-year-old kids, the type of software we wanted to code was games, although we also coded some nice tools.
+On our first project, we quickly learned to code some simple programs. Matthias mainly focused on medium resolution programming and Stefan on high resolution. As 12-year-olds, the type of software we wanted to code was games, although we also coded some nice tools.
 
 - <b>International Kegeln and Bowling (1990)</b>
   Our first release ever. Idea from Matthias (Olympic Arts) and first graphical coding project. The result was a complete Bowling game as a second version of "International Kegeln" simply called <b>Bowling</b>. Sure, it was complete, but never playable.
@@ -57,7 +57,7 @@ mainly Stefan, the goal was to build serious applications on the PC. SkyLINE exi
 <a href="https://28k8.moonweb.org/bbs/pc/skyline/" target="_blank">SkyLINE Production Releases</a>
 
 <b>PHOB!A</b>
-was a short-lived PC DemoGroup in 1994. It released the Phobia Welcome Intro, coded in Turbo Pascal with inline assembler, using palette tricks for animation and a custom font.
+was a short-lived PC demo group in 1994. It released the Phobia Welcome Intro, coded in Turbo Pascal with inline assembler, using palette tricks for animation and a custom font.
 <a href="https://www.moonweb.org/phobia/" target="_blank">PHOB!A Website with Sourcecode</a>
 
 {% endpseudonymBox %}
@@ -75,7 +75,7 @@ Matthias and I always looked at the famous PC demos and thought about the way to
 ## The PC Tools
 
 - <b>DOSMENU II (1994)</b>
-  The only boot selector which could change config.sys and autoexec.bat parameters while booting. There has never been a tool like this. Maybe it's useful for you. A must for a DOS machine.
+  The only boot selector that could change config.sys and autoexec.bat parameters while booting. There has never been a tool like this. It might be useful for you. A must for a DOS machine.
   [... download (170kB)](https://www.moonweb.org/files/pc/skyline/dosmenu.zip)
   [... free reg-key by email](mailto:dosmenu-reg-key@moonweb.org)
 

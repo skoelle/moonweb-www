@@ -64,6 +64,10 @@ strong { color:#BBCCEE; background-color:#334444; font-weight:normal;}
   display: none;
 }
 
+.mobile-footer-quicknav {
+  display: none;
+}
+
 /* ========================================
    MOBILE LAYOUT (Responsive)
    ======================================== */
@@ -228,6 +232,17 @@ strong { color:#BBCCEE; background-color:#334444; font-weight:normal;}
   /* Footer: Volle Breite */
   td[colspan="2"] table {
     width: 100% !important;
+  }
+
+  /* Quicknav ueber Footer */
+  .mobile-footer-quicknav {
+    display: block !important;
+    padding: 12px 20px;
+    text-align: center;
+  }
+  .mobile-footer-quicknav a.quicknav {
+    font-size: 14px;
+    margin: 0 4px;
   }
 
   /* Typografie anpassen */

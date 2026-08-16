@@ -57,6 +57,11 @@
 
 </td></tr>
 <tr><td align="center"></td><td colspan="2">
+{% if quicknav %}
+<div class="mobile-footer-quicknav">
+{% for entry in quicknav %}<a href="{{ entry.url }}" class="quicknav">{{ entry.label }}</a>{% if not loop.last %} - {% endif %}{% endfor %}
+</div>
+{% endif %}
 <table border="0" cellpadding="10" cellspacing="0" width="610"><tr><td>
 <hr>
 <p class="footer">

@@ -56,6 +56,10 @@ mainly Stefan, the goal was to build games and demos on the PC, but there was on
 mainly Stefan, the goal was to build serious applications on the PC. SkyLINE existed from 1993 till 1995 and released about 15 tools and demos
 <a href="https://28k8.moonweb.org/bbs/pc/skyline/" target="_blank">SkyLINE Production Releases</a>
 
+<b>PHOB!A</b>
+was a short-lived PC DemoGroup in 1994. Released the Phobia Welcome Intro, coded in Turbo Pascal with inline assembler, using palette tricks for animation and a custom font.
+<a href="https://www.moonweb.org/phobia/" target="_blank">PHOB!A Website with Sourcecode</a>
+
 {% endpseudonymBox %}
 
 ## The PC Intros and Demos

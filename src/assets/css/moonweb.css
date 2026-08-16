@@ -86,14 +86,27 @@ strong { color:#BBCCEE; background-color:#334444; font-weight:normal;}
 
 /* Mobile Breakpoint: 768px */
 @media (max-width: 768px) {
-  /* Mobile Header: Seite + Navigation nebeneinander */
+  /* Mobile Header: Logo oben skaliert, darunter Seite + Navigation */
   .mobile-header {
-    display: flex !important;
-    align-items: flex-start;
+    display: block !important;
     padding: 0 0 8px 0;
   }
-  .mobile-header .mobile-pageimage {
-    flex-shrink: 0;
+  .mobile-logo {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+  .mobile-nav-row {
+    display: flex !important;
+    align-items: flex-start;
+  }
+  .mobile-nav-row .mobile-pageimage {
+    flex-shrink: 0 !important;
+    width: 108px !important;
+    height: 120px !important;
+    object-fit: cover !important;
+    object-position: top !important;
   }
   .mobile-header .nav-toggle {
     flex: 1;
@@ -279,6 +292,10 @@ strong { color:#BBCCEE; background-color:#334444; font-weight:normal;}
   img {
     max-width: 100% !important;
     height: auto !important;
+  }
+  img.mobile-pageimage {
+    height: 120px !important;
+    max-height: 120px !important;
   }
 
   /* Background: komplett aus */

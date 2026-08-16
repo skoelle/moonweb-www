@@ -11,7 +11,16 @@
 <link rel="icon" href="/assets/images/favicon.ico">
 </head>
 <body background="/assets/images/background.gif" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-<table border="0" cellpadding="0" cellspacing="0" width="750" height="100%"><tr><td valign="top">
+
+<div class="mobile-header">
+<img src="/assets/images/logomobile.gif" alt="M O O N W E B" class="mobile-logo">
+<div class="mobile-nav-row">
+<img src="/assets/pageImage/{{ section }}.jpg" alt="{{ section }}" border="0" class="mobile-pageimage">
+{% include "nav.njk" %}
+</div>
+</div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="750" height="100%" class="layout-main"><tr><td valign="top" class="sidebar-left">
 
 <table border="0" cellpadding="0" cellspacing="0" width="108">
 <tr><td>
@@ -23,16 +32,15 @@
 </td></tr>
 </table>
 
-</td><td valign="top">
-<img src="/assets/images/pixel-white.gif" height="10" width="400"><br>
-<table border="0" cellpadding="10" cellspacing="0" width="492"><tr><td>
+</td><td valign="top" class="content-area">
+<table border="0" cellpadding="7" cellspacing="0" width="492"><tr><td>
 
 <h1>{{ pageTitle | default("The " + section) }}</h1>
 
 {{ content | safe }}
 
 </td></tr></table>
-</td><td valign="top">
+</td><td valign="top" class="sidebar-right">
 
 <table border="0" cellpadding="0" cellspacing="0" width="150">
 <tr height="20"><td>&nbsp;</td></tr>
@@ -48,6 +56,11 @@
 
 </td></tr>
 <tr><td align="center"></td><td colspan="2">
+{% if quicknav %}
+<div class="mobile-footer-quicknav">
+{% for entry in quicknav %}<a href="{{ entry.url }}" class="quicknav">{{ entry.label }}</a>{% if not loop.last %} - {% endif %}{% endfor %}
+</div>
+{% endif %}
 <table border="0" cellpadding="10" cellspacing="0" width="610"><tr><td>
 <hr>
 <p class="footer">

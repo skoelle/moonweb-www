@@ -1,4 +1,6 @@
-<table border="0" cellpadding="0" cellspacing="0">
+<details class="nav-toggle" open>
+<summary class="nav-toggle-button">Menu</summary>
+<table border="0" cellpadding="0" cellspacing="0" class="nav-table">
 {% for group in nav %}
 <tr><td>
   {% for item in group %}
@@ -8,7 +10,8 @@
   {% endfor %}
 </td></tr>
 {% if not loop.last %}
-<tr><td><img src="/assets/images/pixel-white.gif" width="76" height="15" border="0" alt=""></td></tr>
+<tr><td><img src="/assets/images/pixel-white.gif" width="76" height="15" border="0" alt="" class="nav-spacer"></td></tr>
 {% endif %}
 {% endfor %}
 </table>
+</details>

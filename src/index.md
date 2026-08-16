@@ -16,7 +16,7 @@ Welcome to the new <b>moonweb.org</b> website. After <b>2 years</b> of part-time
 ## The Idea
 
 Thank you for visiting our page. The idea behind moonweb.org is to build up <b>IT knowledge</b> and to <b>learn from each other</b>.
-Since computer education in schools or colleges here in Germany isn't very comprehensive and often misses out on interesting aspects relevant to business life, we build up our IT knowledge through self-study.
+Since computer education in schools or colleges here in Germany isn't very comprehensive and often misses out on interesting aspects relevant to business life, we built up our IT knowledge through self-study.
 
 ## The Website
 
@@ -28,7 +28,7 @@ You can also find some general information about the person who played a <b>majo
 Since there is no advertising on my homepage, you probably know who I am, so I will skip the
 standard description of myself. If you want to know more about [me](/stefan/), write me an [email](mailto:who-are-you@moonweb.org).
 I dislike personal websites and often wonder if anyone would actually use this page. I stopped
-worrying about it :) and remembered the main reason I started this website: to document all the information
+worrying about it :) and remember the main reason I started this website: to document all the information
 about my projects so I would never forget anything. That's all.
 
 ## The Future

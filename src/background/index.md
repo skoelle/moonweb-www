@@ -9,7 +9,7 @@ lastChanged: "5/1/2001"
 
 Here is a list of key milestones in my IT learning journey.
 
-## The Personal Dates
+## The Key Dates
 
 {% pseudonymBox "Personal Dates" %}
 

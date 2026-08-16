@@ -64,10 +64,10 @@ was a short-lived PC DemoGroup in 1994. Released the Phobia Welcome Intro, coded
 
 ## The PC Intros and Demos
 
-Matthias and I always looked at the famous PC demos and thought about the way to code them. Some small demo releases to be mentioned have been released.
+Matthias and I always looked at the famous PC demos and thought about the way to code them. Several small demo releases deserve mention.
 
 - <b>phobia-intro (1994)</b>
-  The best intro ever coded by myself (Stefan). Some faked but looks really good. I will try to make a screenshot soon and put the source and the executable into an archive for download. Meanwhile, you can read something about the PHOBIA and the demo group story. Sorry, the links on this page do not work. <a href="https://www.moonweb.org/phobia/" target="_blank">... read more</a>
+  The best intro ever coded by myself (Stefan). Some parts are faked, but it looks really good. I will try to make a screenshot soon and put the source and the executable into an archive for download. Meanwhile, you can read something about the PHOBIA and the demo group story. Sorry, the links on this page do not work. <a href="https://www.moonweb.org/phobia/" target="_blank">... read more</a>
 
 - <b>Copperintro (1995)</b>
   A really interesting demo with more than 100 colors in text mode done with Amiga copper-like effects. Does only work on an old 486 PC. Perhaps it will run under Pentium, too. Just test it. [... download (10kB)](https://www.moonweb.org/files/pc/skyline/copperint.zip)

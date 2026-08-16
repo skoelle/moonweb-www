@@ -31,7 +31,7 @@ Later on, we tried to perform some live music. There are two tapes with live mus
 
 {% pseudonymBox "Live Sessions" %}
 
-vapeur livesession (1992)
+vapeur live session (1992)
 <a href="https://soundcloud.com/stefan-koelle/sets/vapeur-livesession-1992" target="_blank">... album on soundcloud</a>
 
 {% endpseudonymBox %}

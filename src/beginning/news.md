@@ -33,7 +33,7 @@ its <b>own domain</b>. As everyone can expect, planets.org was already taken, an
 became the domain of the moment.
 
 <b>So why have I relaunched the design of this domain?</b>
-Sure, there was not much activity in the last two years on moonweb.org, but the main reason to update this page was
+Sure, there has not been much activity in the last two years on moonweb.org, but the main reason to update this page was
 to collect all the projects and products we created over the past 10 years and document them on this webpage.
 
 <b>Are there still some active projects or new products?</b>

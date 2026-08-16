@@ -29,7 +29,7 @@ In 1992, we started developing on a 486 Intel personal computer using Turbo Pasc
 
 - <b>Glücksrad (1993)</b>: A 'Wheel of Fortune' inspired game with graphics and PC-Speaker sound.
 
-- <b>Tetris (1994)</b>: A two-player Tetris competition preview, well playable but never finished.
+- <b>Tetris (1994)</b>: A two-player Tetris competition preview, very playable but never finished.
 
 <b>The PC Intros and Demos</b>
 We were inspired by famous PC demos and released some small demo projects.

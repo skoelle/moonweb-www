@@ -15,7 +15,7 @@ Welcome to the new <b>moonweb.org</b> website. After <b>2 years</b> of part-time
 
 ## The Idea
 
-Thank you for visiting our page. The idea behind moonweb.org is to build up <b>IT knowledge</b> and to <b>learn from each other</b>.
+Thank you for visiting our page. The idea behind moonweb.org is to build <b>IT knowledge</b> and to <b>learn from each other</b>.
 Since computer education in schools or colleges here in Germany isn't very comprehensive and often misses out on interesting aspects relevant to business life, we built up our IT knowledge through self-study.
 
 ## The Website

@@ -16,7 +16,7 @@ This month marks the relaunch. For more information about the relaunch, please v
 
 ## The Design Relaunch (1.5.2001)
 
-Soon after the first release of the old moonweb.org design, I started thinking about <b>a new design</b>—a <b>simple, clean, and smoother version</b>. After a year of brainstorming, I developed the first version of the new design and aimed to publish it by the new millennium in 2000. However, I discovered numerous small issues I didn't like. Nearly another year later, I finished the design. Here is a timeline with the key relaunch steps:
+Soon after the first release of the old moonweb.org design, I started thinking about <b>a new design</b>—a <b>simple, clean, and smooth version</b>. After a year of brainstorming, I developed the first version of the new design and aimed to publish it by the new millennium in 2000. However, I discovered numerous small issues I didn't like. Nearly another year later, I finished the design. Here is a timeline with the key relaunch steps:
 
 {% pseudonymBox "Timeline" %}
 
@@ -32,7 +32,7 @@ Soon after the first release of the old moonweb.org design, I started thinking a
 
 Meanwhile, I also tried to develop the <b>INSECO Webpages</b>, but they are still in <b>early development</b>. More information about this will be announced in the coming months with a detailed plan of the steps to publish the INSECO Webpages.
 
-The <b>content on moonweb.org</b> will be released <b>in three steps</b> as described on the [news page](news.html). This is due to the large amount of information that needs to be added to these sections. This time, I want to describe everything that has been developed over the last 13 years.
+The <b>content on moonweb.org</b> will be released <b>in three steps</b> as described on the [news page](news.html). This is due to the large amount of information that needs to be added to these sections. This time, I will describe everything that has been developed over the last 13 years.
 
 For any comments, please write me an email. Thanks.
 

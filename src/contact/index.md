@@ -7,7 +7,7 @@ layout: layout.njk
 lastChanged: "5/1/2001"
 ---
 
-For <b>general information</b>, please use this contact.
+For <b>general information</b>, please use this contact information.
 
 {% pseudonymBox "Contact" %}
 
@@ -16,7 +16,7 @@ email: info@moonweb.org
 
 {% endpseudonymBox %}
 
-Please report <b>technical problems</b> with this webserver to the webmaster contact.
+Please report <b>technical problems</b> with this webserver to the webmaster.
 
 {% pseudonymBox "Webmaster" %}
 

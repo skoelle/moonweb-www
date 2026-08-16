@@ -7,7 +7,7 @@ layout: layout.njk
 lastChanged: "5/1/2001"
 ---
 
-moonweb.org was located in Augsburg, Germany. The location was connected to two additional locations: one in the same house via a 10 Mbit thin-Ethernet cable, and the Springfield.net network connected via demand dial RAS. The next step was to build a much wider network with the new network project 'VPN demand dial connection'.
+moonweb.org was located in Augsburg, Germany. The location was connected to two additional locations: one in the same house via a 10 Mbit thin-Ethernet cable, and another to the Springfield.net network via a demand dial RAS connection. The next step was to build a much wider network with the new network project 'VPN demand dial connection'.
 
 ## The Main Environment
 

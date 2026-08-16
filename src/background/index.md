@@ -52,7 +52,7 @@ Microsoft certified for:
 
 ## The Work at IXOS SOFTWARE AG
 
-I started to work at <b>IXOS SOFTWARE AG</b> as an intern for my studies and worked on different projects.
+I started to work at <b>IXOS SOFTWARE AG</b> as an intern during my studies and worked on different projects.
 
 - Jetform integration into IXOS ARCHIVE on an R/3 environment
 

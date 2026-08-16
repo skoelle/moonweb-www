@@ -13,7 +13,7 @@ quicknav:
 ---
 
 This relaunch of <b>moonweb.org</b> is mostly a design update. In the following months, I will update one section per month.
-Keep an eye on the following dates...
+Keep an eye on the following dates:
 
 {% pseudonymBox "The dates of section updates" %}
 
@@ -28,7 +28,7 @@ Keep an eye on the following dates...
 
 Many people ask me about the reason for <b>moonweb.org</b>. During my studies, I started to think <b>more globally</b>. I already had
 some contacts through Fidonet, but serious networking and communication started with the internet. The first step was to build up
-an <b>internet brand</b>, and I started with the first planets.org webpages. I quickly realized, an internet brand has to have
+an <b>internet brand</b>, and I started with the first planets.org webpages. I quickly realized an internet brand has to have
 its <b>own domain</b>. As everyone can expect, planets.org was already taken, and after sleepless nights, <b>moonweb.org</b>
 became the domain of the moment.
 

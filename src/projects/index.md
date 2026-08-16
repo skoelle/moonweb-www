@@ -11,7 +11,7 @@ The main goal of moonweb.org projects is to build up <b>IT knowledge</b>. Over t
 
 ## Computer Programming Projects
 
-Over the years, several products have been released through various development projects. These projects began in 1988 on our first computers, the Atari STFM 1040. More detailed information can be found in the project section.
+Over the years, several products have been released through various development projects. These projects began in 1988 on our first computers, the Atari STFM 1040. More detailed information can be found in the projects section.
 
 <b>The Atari ST Products</b>
 Our first project involved coding simple programs. Matthias focused on medium resolution programming, while Stefan worked on high resolution. As 12-year-olds, we primarily coded games but also developed some useful tools.
@@ -100,4 +100,4 @@ I started by composing music on the computer using MOD-Trackers. While these tra
 We later experimented with live music, resulting in two tapes of live recordings, including a session from S.O.N.A.X meets Genital Angriff and a solo tape from Genital Angriff.
 
 <b>The Live Turntable Mixing</b>
-I started mixing live at private and smaller parties. Some notable events include the 'all areas party prince garden' and winning 2nd place in a DJ competition. You can find a live recording of the afro-cosmic-double-mix with my DJ friend Marc Le Nain from the private lounge party V.
+I started mixing live at private and smaller parties. Some notable events include the 'all areas party prince garden' and winning 2nd place in a DJ competition. You can find a live recording of the afro-cosmic-double-mix with my DJ friend Marc Le Nain from Private Lounge Party V.

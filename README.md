@@ -77,6 +77,58 @@ Zusätzlich existieren die Sektionen `network` und `stefan` mit Inhalten, die je
 - **Shortcode:** 📦 `pseudonymBox` — rechtsbündige Box mit dunklem Hintergrund und Gold-Überschrift
 - **Routing:** ↪️ Alte URL-Pfade werden via Meta-Refresh auf die neue Startseite weitergeleitet
 
+## 📱 Mobile Layout (Responsive)
+
+Das mobile Layout wird per CSS Media Query bei `max-width: 768px` aktiviert. Die Desktop-Version (750px) bleibt unverändert.
+
+### Geänderte Dateien
+
+| Datei | Änderung |
+|-------|----------|
+| `src/_includes/layout.njk` | Mobile-Header (`div.mobile-header`) mit Logo, pageImage und Navigation |
+| `src/assets/css/moonweb.css` | Media Queries für Mobile (768px) und Kleinbildschirm (480px) |
+| `src/_includes/nav.njk` | `details/summary`-Toggle für CSS-only Mobile-Menü |
+| `src/css/nav-replacement.njk` | Mobile-Regel: Background-Images deaktivieren |
+
+### Mobile-Layout-Struktur
+
+```
+┌─────────────────────────────┐
+│  Logo (logomobile.gif)      │  ← zentriert, 20px Margin oben/links/rechts
+│  1px schwarzer Border       │
+├─────────────────────────────┤
+│  pageImage │ Navigation     │  ← Flex-Row, pageImage links (108x120px, beschnitten)
+│  1px Border│ Textlinks      │    mit 20px Padding, Navigation rechts daneben
+├─────────────────────────────┤
+│  Content (volle Breite)     │
+├─────────────────────────────┤
+│  Quicknav (falls vorhanden) │  ← nur in "beginning", Textlinks zentriert
+├─────────────────────────────┤
+│  Footer                     │
+└─────────────────────────────┘
+```
+
+### Was passiert im Mobile-Modus
+
+- **Layout:** Tabellen auf `display: block` umgeschaltet, volle Breite
+- **Linke Sidebar:** Komplett ausgeblendet
+- **Rechte Sidebar:** Komplett ausgeblendet (Nav + Logo im mobile-header)
+- **Navigation:** Inline Textlinks rechts neben pageImage (kein Hamburger-Menü)
+- **pageImage:** 108px breit, 120px hoch (mit `object-fit: cover`, oben abgeschnitten)
+- **Logo:** `logomobile.gif`, skaliert auf `calc(100% - 40px)`, max 400px, zentriert
+- **Hintergrund:** Komplett deaktiviert
+- **Quicknav:** Textlinks über Footer (nur in "beginning"-Sektion)
+- **Typografie:** Schriftgröße 14px (statt 9pt), h1 margin 0
+- **Formulare:** `width: 100%`, `max-width: 100%`
+- **Bilder:** `max-width: 100%`, `height: auto`
+
+### Kleinbildschirm (480px)
+
+Zusätzliche Anpassungen für sehr kleine Bildschirme:
+- Schriftgröße 13px
+- h1 Schriftgröße 16pt
+- Reduziertes Padding im Content-Bereich
+
 ## 📜 Lizenz
 
 Dieses Projekt steht unter der [Creative Commons Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) (CC BY-NC-SA 4.0).

@@ -1,0 +1,16 @@
+{
+  "name": "moonweb-www",
+  "version": "0.1.0",
+  "private": true,
+  "description": "moonweb.org Phase 1 migration: 1:1 layout, build-to-html mit Eleventy",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rimraf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "markdown-it": "^14.1.0",
+    "rimraf": "^5.0.5"
+  }
+}

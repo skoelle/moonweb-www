@@ -1,0 +1,60 @@
+body        {
+        font-family: Verdana, Arial, sans-serif;
+        font-size:9pt;
+        background-color:#FFFFFF;
+        color:#000000;
+        margin: 0px;
+            }
+input   {
+        font-family: Verdana, Arial, sans-serif;
+        font-size:9pt;
+        width:300px;
+    BORDER-WIDTH: 1px;
+    BORDER-STYLE: solid;
+    BORDER-COLOR: #666666;
+    BACKGROUND-COLOR: #EEEEEE;
+    COLOR: #000000;
+        }
+.inputbutton   {
+        font-family: Verdana, Arial, sans-serif;
+        font-size:9pt;
+        width:120px;
+    BORDER-WIDTH: 1px;
+    BORDER-STYLE: solid;
+    BORDER-COLOR: #666666;
+    BACKGROUND-COLOR: #DDDDDD;
+    COLOR: #000000;
+        }
+textarea   {
+        font-family: Verdana, Arial, sans-serif;
+        font-size:9pt;
+        width:450px;
+        height:150px;
+    BORDER-WIDTH: 1px;
+    BORDER-STYLE: solid;
+    BORDER-COLOR: #666666;
+    BACKGROUND-COLOR: #EEEEEE;
+    COLOR: #000000;
+        }
+hr        { color:#AA2233; height:1; }
+h1      { font-family:Impact,sans-serif,Arial; font-size:14pt; font-weight:normal; background-color:#DDDDDD; color:#555544; }
+h2      { font-family: Verdana, Arial, sans-serif; font-weight:bold; font-size:9pt; background-color:#EEEEEE; color:#990033;}
+h3      { font-family:Impact,Verdana,Arial; font-size:12pt; font-weight:bold; padding-left:50px; color:#990033; }
+p { font-family: Verdana, Arial, sans-serif; font-size:9pt;}
+br { font-family: Verdana, Arial, sans-serif; font-size:9pt;}
+p.red { font-family: Verdana, Arial, sans-serif; font-size:9pt; color:#990033;}
+p.footer { font-family: Verdana, Arial, sans-serif; font-size:8pt; text-align:center; alignment:center; }
+br.footer { font-family: Verdana, Arial, sans-serif; font-size:9pt; text-align:center; alignment:center; }
+p.pt8 { font-family:Verdana, Arial, sans-serif; font-size:9pt;}
+th { font-family: Verdana, Arial, sans-serif; font-size:9pt;}
+td { font-family: Verdana, Arial, sans-serif; font-size:9pt;}
+ul { font-family: Verdana, Arial, sans-serif; list-style-image:url(/assets/images/item.gif); font-size:9pt;}
+a:link { font-weight:bold; background-color:#FFFFFF; color:#334444; }
+a:visited { font-weight:bold; background-color:#FFFFFF; color:#334444; }
+a:active { font-weight:bold; background-color:#DDDDDD; color:#334444; }
+a:hover { font-weight:bold; background-color:#BBCCEE; color:#334444; }
+a.quicknav { font-weight:normal; text-decoration:none; background-color:#DDDDDD; width:85px; padding-right:5px; font-family: sans-serif, Arial, sans-serif; font-size:8pt; color:#AA2233; }
+a.quicknav:visited { font-weight:normal; text-decoration:none; background-color:#DDDDDD; width:85px; padding-right:5px; font-family: sans-serif, Arial, sans-serif; font-size:8pt; color:#AA2233; }
+a.quicknav:active { font-weight:normal; text-decoration:none; background-color:#DDDDDD; width:85px; padding-right:5px; font-family: sans-serif, Arial, sans-serif; font-size:8pt; color:#AA2233; }
+a.quicknav:hover { font-weight:normal; text-decoration:none; background-color:#CCCCCC; width:85px; padding-right:5px; font-family: sans-serif, Arial, sans-serif; font-size:8pt; color:#AA2233; }
+strong { color:#BBCCEE; background-color:#334444; font-weight:normal;}

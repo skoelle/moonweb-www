@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ site.domain }}{{ permalink }}">
+<title>moonweb.org - {{ pageTitle | default("The " + section) }}</title>
+<link rel="stylesheet" type="text/css" href="/assets/css/moonweb.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/nav-replacement.css">
+<link rel="icon" href="/assets/images/favicon.ico">
+</head>
+<body background="/assets/images/background.gif" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+<table border="0" cellpadding="0" cellspacing="0" width="750" height="100%"><tr><td valign="top">
+
+<table border="0" cellpadding="0" cellspacing="0" width="108">
+<tr><td>
+<img src="/assets/pageImage/{{ section }}.jpg" alt="{{ section }}" height="162" width="108" border="0">
+</td></tr>
+<tr><td align="left">
+&nbsp;
+{% if quicknav %}{% include "quicknav.njk" %}{% endif %}
+</td></tr>
+</table>
+
+</td><td valign="top">
+<img src="/assets/images/pixel-white.gif" height="10" width="400"><br>
+<table border="0" cellpadding="10" cellspacing="0" width="492"><tr><td>
+
+<h1>{{ pageTitle | default("The " + section) }}</h1>
+
+{{ content | safe }}
+
+</td></tr></table>
+</td><td valign="top">
+
+<table border="0" cellpadding="0" cellspacing="0" width="150">
+<tr height="20"><td>&nbsp;</td></tr>
+<tr height="295"><td>
+<table border="0" cellpadding="0" cellspacing="0"><tr>
+<td width="130" valign="top">
+{% include "nav.njk" %}
+</td>
+<td width="60"><img src="/assets/images/logo.gif" height="295" width="61" alt="M O O N W E B"></td>
+</tr></table>
+</td></tr>
+</table>
+
+</td></tr>
+<tr><td align="center"></td><td colspan="2">
+<table border="0" cellpadding="10" cellspacing="0" width="610"><tr><td>
+<hr>
+<p class="footer">
+  {% if lastChanged %}last changed {{ lastChanged }} - {% endif %}
+  <a href="mailto:{{ site.contactEmail }}">{{ site.contactEmail }}</a> - (c) 2001-2026 moonweb.org
+</p>
+</td></tr></table>
+</td></tr>
+</table>
+</body>
+</html>

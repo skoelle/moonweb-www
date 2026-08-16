@@ -27,7 +27,7 @@ You can also find some general information about the person who played a <b>majo
 
 Since there is no advertising on my homepage, you probably know who I am, so I will skip the
 standard description of myself. If you want to know more about [me](/stefan/), write me an [email](mailto:who-are-you@moonweb.org).
-I dislike personal websites and often wondered if anyone would actually use this page. I stopped
+I dislike personal websites and often wonder if anyone would actually use this page. I stopped
 worrying about it :) and remembered the main reason I started this website: to document all the information
 about my projects so I would never forget anything. That's all.
 

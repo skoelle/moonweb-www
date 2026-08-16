@@ -16,7 +16,7 @@ This month marks the relaunch. For more information about the relaunch, please v
 
 ## The Design Relaunch (1.5.2001)
 
-Soon after the first release of the old moonweb.org design, I started thinking about <b>a new design</b>-a <b>simple, clean, and smoother version</b>. After a year of brainstorming, I developed the first version of the new design and aimed to publish it by the new millennium in 2000. However, I discovered numerous small issues I didn't like. Nearly another year later, I finished the design. Here is a timeline with the key relaunch steps:
+Soon after the first release of the old moonweb.org design, I started thinking about <b>a new design</b>—a <b>simple, clean, and smoother version</b>. After a year of brainstorming, I developed the first version of the new design and aimed to publish it by the new millennium in 2000. However, I discovered numerous small issues I didn't like. Nearly another year later, I finished the design. Here is a timeline with the key relaunch steps:
 
 {% pseudonymBox "Timeline" %}
 

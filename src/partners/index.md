@@ -7,7 +7,7 @@ layout: layout.njk
 lastChanged: "5/1/2001"
 ---
 
-I want to thank some persons who helped me during the last 13 years (1988-2001).
+I want to thank some people who helped me during the last 13 years (1988-2001).
 
 <b>Matthias</b>
 For the best time ever while brainstorming over games, demos, and enhancements of all the tools we developed. And of course, I have to thank you for leading me to the Atari ST and not to the Amiga :) and for the help on all the projects.

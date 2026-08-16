@@ -16,7 +16,7 @@ Over the years, several products have been released through various development 
 <b>The Atari ST Products</b>
 Our first project involved coding simple programs. Matthias focused on medium resolution programming, while Stefan worked on high resolution. As 12-year-old kids, we primarily coded games but also developed some useful tools.
 
-- <b>International Kegeln and Bowling (1990)</b>: Our first release, a complete but unplayable bowling game.
+- <b>International Kegeln and Bowling (1990)</b>: Our first release, a complete but barely playable bowling game.
 
 - <b>Runner (1991)</b>: An all-round helper tool with a database, memo, system overview, and a game.
 

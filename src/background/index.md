@@ -7,7 +7,7 @@ layout: layout.njk
 lastChanged: "5/1/2001"
 ---
 
-Here is a list of important personal dates of my IT knowledge learning process.
+Here is a list of key milestones in my IT learning journey.
 
 ## The Personal Dates
 

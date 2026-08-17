@@ -43,7 +43,7 @@ In about 1992, Matthias and I bought a 486 Intel personal computer and <b>quickl
   The first PC software release in 1993. Code by Stefan, graphics from Matthias, and PC-Speaker sound sampled from the 'Wheel of Fortune' show on Sat1. The idea, of course, comes from 'Wheel of Fortune'. Recommended computer: 486 with DOS. [... download (400kB)](https://www.moonweb.org/files/pc/esprit/grad1993.zip)
 
 - <b>Tetris (1994)</b>
-  Fully playable two-player Tetris competition preview. Complete coding and graphics by Stefan. Never finished a release version, but this version is very playable. Released under 'SkyLINE Production'. Recommended computer: 486 with DOS. If someone could run it on Windows, please let me know.
+  Fully playable two-player Tetris competition preview. Complete coding and graphics by Stefan. Never finished a release version, but this version is very playable. Released under 'SkyLINE Production'. Recommended computer: 486 with DOS. Now available as DOSBox version for Windows and modern systems.
   [... download DOSBOX Version](https://www.moonweb.org/files/pc/skyline/tet_comp_dosbox.zip)
 
 {% pseudonymBox "The software group pseudonyms" %}

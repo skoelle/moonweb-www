@@ -4,11 +4,28 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="{{ description }}">
+<meta property="og:title" content="{{ pageTitle | default('The ' + section) }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.domain }}{{ permalink }}">
+<meta property="og:site_name" content="moonweb.org">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ pageTitle | default('The ' + section) }}">
+<meta name="twitter:description" content="{{ description }}">
 <link rel="canonical" href="{{ site.domain }}{{ permalink }}">
 <title>moonweb.org - {{ pageTitle | default("The " + section) }}</title>
 <link rel="stylesheet" type="text/css" href="/assets/css/moonweb.css">
 <link rel="stylesheet" type="text/css" href="/assets/css/nav-replacement.css">
 <link rel="icon" href="/assets/images/favicon.ico">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "moonweb.org",
+  "url": "{{ site.domain }}",
+  "description": "{{ description }}"
+}
+</script>
 </head>
 <body background="/assets/images/background.gif" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
